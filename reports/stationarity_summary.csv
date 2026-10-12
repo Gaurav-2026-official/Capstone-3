@@ -1,0 +1,4 @@
+Series,Observations,ADF statistic,ADF p-value,ADF lags,KPSS statistic,KPSS p-value (table bound),KPSS lags,ADF conclusion (5%),KPSS conclusion (5%)
+Price level,2583,-0.9779171167137444,0.76123308311788,7,5.515013579692898,0.01,30,non-stationary,non-stationary
+First difference,2582,-21.03389384358597,0.0,6,0.2989943958497208,0.1,6,stationary,stationary
+Log return,2582,-52.40265822042287,0.0,0,0.29376726957716703,0.1,3,stationary,stationary
