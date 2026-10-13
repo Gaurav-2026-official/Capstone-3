@@ -2,6 +2,9 @@
 
 A complete, reproducible capstone project using the supplied **Gold Price (2013–2023)** dataset. Target: daily gold `Price` in **USD per troy ounce** (as represented by the source data; verify the original data provider's unit definition before publishing).
 
+#Submitter 
+Gaurav Redkar
+
 ## Capstone objectives
 - Inspect, clean, and visualize daily gold prices.
 - Test stationarity using **ADF** and **KPSS** (price level and transformed series).
